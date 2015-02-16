@@ -1,2 +1,2 @@
 # compound
-Convert custom markup into HTML
+Convert custom markup into HTML from the command line.
